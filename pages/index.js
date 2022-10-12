@@ -144,6 +144,7 @@ export default function Home() {
      </p>
      </div>
     </div>
+   
    <div className={styles.copy}>&copy; Statuz 2022 </div>
     </main>
     </div>
